@@ -1,5 +1,5 @@
 function high(x) {
-  let al = `?abcdefghijklmnopqrstuvwxyz`.split("");
+  let al = ` abcdefghijklmnopqrstuvwxyz`.split("");
 
   let arr = x.split(" ");
 
