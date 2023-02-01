@@ -9,8 +9,8 @@ Leave punctuation marks untouched.
 
 Examples:
 
-pigIt('Pig latin is cool'); // igPay atinlay siay oolcay
-pigIt('Hello world !');     // elloHay orldway !
+// pigIt('Pig latin is cool'); // igPay atinlay siay oolcay
+// pigIt('Hello world !');     // elloHay orldway !
 
 
 
